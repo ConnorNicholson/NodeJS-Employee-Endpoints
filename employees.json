@@ -1,0 +1,62 @@
+[
+        {
+            "employeeID": 1,
+            "employeeName": "Connor",
+            "salary": 100000,
+            "departmentName": "Health"
+        },
+        {
+            "employeeID": 2,
+            "employeeName": "Derik",
+            "salary": 10000,
+            "departmentName": "Food"
+        },
+        {
+            "employeeID": 3,
+            "employeeName": "Toni",
+            "salary": 90000,
+            "departmentName": "Teaching"
+        },
+        {
+            "employeeID": 4,
+            "employeeName": "Wendy",
+            "salary": 100001,
+            "departmentName": "Entrepreneur"
+        },
+        {
+            "employeeID": 5,
+            "employeeName": "Bob",
+            "salary": 50000,
+            "departmentName": "Retail"
+        },
+        {
+            "employeeID": 6,
+            "employeeName": "Mary",
+            "salary": 200000,
+            "departmentName": "Farmer"
+        },
+        {
+            "employeeID": 7,
+            "employeeName": "Joe",
+            "salary": 900000,
+            "departmentName": "Athlete"
+        },
+        {
+            "employeeID": 8,
+            "employeeName": "Barnebie",
+            "salary": 80000,
+            "departmentName": "Chef"
+        },
+        {
+            "employeeID": 9,
+            "employeeName": "Max",
+            "salary": 80000,
+            "departmentName": "IT"
+        },
+        {
+            "employeeID": 10,
+            "employeeName": "Lynnette",
+            "salary": 100000,
+            "departmentName": "Software"
+        }
+]
